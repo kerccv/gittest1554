@@ -1,0 +1,1 @@
+# 3 Марта 2026 год. Учу git, выучил команды: clone, add, status, commit, push, pull, init, branch, checkout
